@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jwstanwick
+- 👋 Hi, I’m John Stanwick, a developer from Auburn, Alabama who is studying Computer Engineering at Purdue University
 - 👀 I’m interested in FinTech, Machine Learning, and Cryptocurrency
-- 🌱 I’m currently learning Flutter, Firebase, and Vue.js
-- 💞️ I’m looking to collaborate on Charitas Co, an open-source cryptocurrency mining program
+- 🌱 I’m currently learning React Native, ReactJS, and Nuxt.js
+- 💞️ I am proficient in Python, Java, C, JavaScript, HTML, and CSS
 
 <!---
 jwstanwick/jwstanwick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
